@@ -32,7 +32,7 @@ Criar um portfólio com nossos projetos utilizando elementos/componentes do boos
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
-Link Github Pages: [preview](https://juslenelobeu.github.io/desafio-frontend-ebac/)
+Link Github Pages: [preview](https://desafio-frontend-ebac.vercel.app/)
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
